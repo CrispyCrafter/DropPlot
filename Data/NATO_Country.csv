@@ -1,0 +1,271 @@
+Digram;Trigram;Entity;Comment
+AA;ABW;Aruba;1
+AB;ABB;Asia;9th ed. adds the trigram, not in ISO 3166-1
+AC;ATG;Antigua and Barbuda;1
+AF;AFG;Afghanistan;1
+AG;DZA;Algeria;1
+AJ;AZE;Azerbaijan;1
+AL;ALB;Albania;1
+AM;ARM;Armenia;1
+AN;AND;Andorra;1
+AO;AGO;Angola;1
+AR;ARG;Argentina;1
+AS;AUS;Australia;1
+AT;ACI;Ashmore and Cartier Islands;"Appears with 9th ed.; the entity is omitted from 8th ed., not in ISO 3166-1"
+AU;AUT;Austria;1
+AV;AIA;Anguilla;1
+AY;ATA;Antarctica;1
+BA;BHR;Bahrain;1
+BB;BRB;Barbados;1
+BC;BWA;Botswana;1
+BD;BMU;Bermuda;1
+BE;BEL;Belgium;1
+BF;BHS;The Bahamas;1
+BG;BGD;Bangladesh;1
+BH;BLZ;Belize;1
+BK;BIH;Bosnia-Herzegovina;1
+BL;BOL;Bolivia;1
+BM;MMR;Myanmar;1
+BN;BEN;Benin;1
+BO;BLR;Belarus;1
+BP;SLB;Solomon Islands;1
+BR;BRA;Brazil;1
+BT;BTN;Bhutan;1
+BU;BGR;Bulgaria;1
+BV;BVT;Bouvet Island;1
+BX;BRN;Brunei;1
+BY;BDI;Burundi;1
+CA;CAN;Canada;1
+CB;KHM;Cambodia;1
+CD;TCD;Chad;1
+CE;LKA;Sri Lanka;1
+CF;COG;Republic of the Congo;1
+CD;COD;Democratic Republic of the Congo;1
+CH;CHN;People's Republic of China;1
+CI;CHL;Chile;1
+CJ;CYM;Cayman Islands;1
+CK;CCK;Cocos (Keeling) Islands;1
+CM;CMR;Cameroun;1
+CN;COM;Comoros;1
+CO;COL;Colombia;1
+CQ;MNP;Northern Mariana Islands;Also listed under the subdivision code US-MP-
+CR;CSI;Coral Sea Islands;"Appears with 9th ed.; the entity is omitted from 8th ed., not in ISO 3166-1"
+CS;CRI;Costa Rica;1
+CT;CAF;Central African Republic;1
+CU;CUB;Cuba;1
+CV;CPV;Cape Verde;1
+CW;COK;Cook Islands;1
+CY;CYP;Cyprus;1
+CZ;CZE;Czech Republic;1
+DA;DNK;Denmark;1
+DJ;DJI;Djibouti;1
+DO;DMA;Dominica;1
+DR;DOM;Dominican Republic;1
+EC;ECU;Ecuador;1
+EE;EEE;Europe;9th ed. adds the trigram, not in ISO 3166-1
+EG;EGY;Egypt;1
+EI;IRL;Ireland;1
+EK;GNQ;Equatorial Guinea;1
+EN;EST;Estonia;1
+ER;ERI;Eritrea;1
+ES;ESP;Spain;1
+ET;ETH;Ethiopia;1
+FF;FFF;Africa;9th ed. adds the trigram, not in ISO 3166-1
+FG;GUF;French Guiana;9th ed. lists it under France as FR-973
+FI;FIN;Finland;1
+FJ;FJI;Fiji;1
+FK;FLK;Falkland Islands;1
+FM;FSM;Federated States of Micronesia;1
+FO;FRO;Faroe Islands;1
+FP;PYF;French Polynesia;9th ed. lists it under France as FR-PYF
+FR;FRA;France;1
+FS;ATF;French Southern Territories;9th ed. lists it under France as FR-FST
+FY;FYR;Macedonia, The Former Yugoslav Republic of;"Temporary code; the ISO 3166 code is MKD"
+GM;GMB;The Gambia;8th ed. STANAG 1049 revised from GA (now: Gabon)
+GA;GAB;Gabon;8th ed. STANAG 1049 revised from GB (now: United Kingdom)
+GC;n/a;East Germany;Obsolete 1990
+GE;DEU;Germany;1
+GG;GEO;Georgia;1
+GH;GHA;Ghana;1
+GI;GIB;Gibraltar;1
+GJ;GRD;Grenada;1
+GL;GRL;Greenland;1
+GP;GLP;Guadeloupe;9th ed. lists it under France as FR-971
+GQ;GUM;Guam;Also listed under the subdivision code US-GU-
+GR;GRC;Greece;1
+GT;GTM;Guatemala;1
+GV;GIN;Guinea;1
+GY;GUY;Guyana;1
+HA;HTI;Haiti;1
+HK;HKG;Hong Kong;Also listed under the provincial code CN-91-
+HM;HMD;Heard and McDonald Islands;1
+HO;HND;Honduras;1
+HQ;HQI;Howland Island;"Appears with 9th ed.; also listed under IQ, not in ISO 3166-1"
+HR;HRV;Croatia;1
+HU;HUN;Hungary;1
+IC;ISL;Iceland;1
+ID;IDN;Indonesia;1
+IN;IND;India;1
+IO;IOT;British Indian Ocean Territory;1
+IQ;UMI;U.S. Minor Outlying Islands;Baker, Howland, Jarvis, Johnston, Kingman Reef, Midway, Navassa, Palmyra, and Wake Islands Also listed under the subdivision code US-UM-
+IR;IRN;Iran;1
+IS;ISR;Israel;1
+IT;ITA;Italy;1
+IV;CIV;Côte d'Ivoire;1
+IZ;IRQ;Iraq;1
+JA;JPN;Japan;1
+JM;JAM;Jamaica;1
+JN;JNM;Jan Mayen Island;"Appears with 9th ed.; also listed under SV/SJM; Also listed under the subdivision code NO-22-"
+JO;JOR;Jordan;1
+JQ;JQA;Johnston Atoll;"Appears with 9th ed.; also listed under IQ, not in ISO 3166-1"
+KE;KEN;Kenya;1
+KG;KGZ;Kyrgyzstan;1
+KN;PRK;Democratic People's Republic of Korea;1
+KR;KIR;Kiribati;1
+KS;KOR;Republic of Korea;1
+KT;CXR;Christmas Island;1
+KU;KWT;Kuwait;1
+KZ;KAZ;Kazakhstan;1
+LA;LAO;Laos;1
+LE;LBN;Lebanon;1
+LG;LVA;Latvia;1
+LH;LTU;Lithuania;1
+LI;LBR;Liberia;1
+LO;SVK;Slovakia;1
+LS;LIE;Liechtenstein;1
+LT;LSO;Lesotho;1
+LU;LUX;Luxembourg;1
+LY;LBY;Libya;1
+MA;MDG;Madagascar;1
+MB;MTQ;Martinique;9th ed. lists it under France as FR-972
+MC;MAC;Macau;1
+MD;MDA;Republic of Moldova;1
+ME;MNE;Montenegro;Since 8th ed.
+MG;MNG;Mongolia;1
+MH;MSR;Montserrat;1
+MI;MWI;Malawi;1
+ML;MAL;Mali;MLI in ISO 3166-1
+MN;MCO;Monaco;1
+MO;MAR;Morocco;1
+MP;MUS;Mauritius;1
+MR;MRT;Mauritania;1
+MT;MLT;Malta;1
+MU;OMN;Oman;1
+MV;MDV;The Maldives;1
+MX;MEX;Mexico;1
+MY;MYS;Malaysia;1
+MZ;MOZ;Mozambique;1
+1;ANT;Netherlands Antilles;removed from ISO 3166-1
+NC;NCL;New Caledonia;9th ed. lists it under France as FR-NCL
+NE;NIU;Niue;1
+NF;NFK;Norfolk Island;1
+NG;NER;Niger;1
+NH;VUT;Vanuatu;1
+NI;NGA;Nigeria;1
+NL;NLD;Netherlands;1
+NN;NNN;North America;9th ed. adds the trigram, not in ISO 3166-1
+NO;NOR;Norway;1
+NP;NPL;Nepal;1
+NR;NRU;Nauru;1
+NS;SUR;Suriname;1
+NT;NTT;NATO countries;9th ed. adds the trigram, not in ISO 3166-1
+NU;NIC;Nicaragua;1
+NZ;NZL;New Zealand;1
+PA;PRY;Paraguay;1
+PN;PCN;Pitcairn Islands;1
+PE;PER;Peru;1
+PF;PFI;Paracel Islands;"Appears with 9th ed.; the entity is omitted from 8th ed., not in ISO 3166-1"
+PK;PAK;Pakistan;1
+PL;POL;Poland;1
+PM;PAN;Panama;1
+PO;PRT;Portugal;1
+PP;PNG;Papua New Guinea;1
+PS;PLW;Palau;In 9th ed., the digram is also assigned to Palestine
+PS;PSE;Palestinian Territory;"Temporary code; 8th ed. has no digram for Palestine 9th ed. also assigns PS to Palau"
+PU;GNB;Guinea-Bissau;1
+QA;QAT;Qatar;1
+RE;REU;Réunion;9th ed. lists it under France as FR-974
+RM;MHL;Marshall Islands;8th ed. omits the trigram (mistakenly?)
+RO;ROU;Romania;1
+RP;PHL;Philippines;1
+RQ;PRI;Puerto Rico;Also listed under the subdivision code US-PR-
+RS;SRB;Serbia;8th ed.
+RU;RUS;Russia;Original code RS is not to be used 8th ed. Now assigned to Serbia.
+RW;RWA;Rwanda;1
+SA;SAU;Saudi Arabia;1
+SB;SPM;Saint Pierre and Miquelon;"9th ed. lists it under France as FR-975 and assigns SB to ""Serbia and Montenegro"""
+SC;KNA;Saint Kitts and Nevis;1
+SE;SYC;Seychelles;1
+SF;ZAF;South Africa;1
+SG;SEN;Senegal;1
+SH;SHN;Saint Helena;1
+SI;SVN;Slovenia;1
+SJ;SJM;Svalbard and Jan Mayen Islands;Also listed under the subdivision code NO-21-
+SL;SLE;Sierra Leone;1
+SM;SMR;San Marino;1
+SN;SGP;Singapore;1
+SO;SOM;Somalia;1
+SR;SRR;South America;9th ed. adds the trigram, not in ISO 3166-1
+SS;ASM;American Samoa;Also listed under the subdivision code US-AS-
+SS;WSM;Samoa;Some sources (other than the STANAGs themselves) claim the digram was WS
+ST;LCA;Saint Lucia;1
+SU;SDN;Sudan;1
+SV;SLV;El Salvador;1
+SW;SWE;Sweden;1
+SX;SGS;South Georgia and South Sandwich Islands;1
+SY;SYR;Syria;1
+SZ;CHE;Switzerland;1
+TC;ARE;United Arab Emirates;1
+TD;TTO;Trinidad and Tobago;1
+TH;THA;Thailand;1
+TI;TJK;Tajikistan;1
+TK;TCA;Turks and Caicos Islands;1
+TK;TKL;Tokelau;1
+TL;TLS;Timor-Leste;1
+TN;TON;Tonga;1
+TO;TGO;Togo;1
+TP;STP;São Tomé and Príncipe;1
+TS;TUN;Tunisia;1
+TU;TUR;Turkey;1
+TV;TUV;Tuvalu;1
+TW;TWN;Republic of China (Taiwan);Also listed under the provincial code CN-71-
+TX;TKM;Turkmenistan;1
+TZ;TZN;Tanzania;TZA in ISO 3166-1
+UG;UGA;Uganda;1
+GB;GBR;United Kingdom (Great Britain and Northern Ireland);8th ed. STANAG 1059 removed UK
+UP;UKR;Ukraine;1
+UR;n/a;Union of Soviet Socialist Republics;Obsolete 1992
+US;USA;United States;1
+UU;UUU;Oceania;9th ed. adds the trigram, not in ISO 3166-1
+UV;BFA;Burkina Faso;1
+UY;URY;Uruguay;1
+UZ;UZB;Uzbekistan;1
+VC;VCT;Saint Vincent and the Grenadines;1
+VE;VEN;Venezuela;1
+VI;VIR;U.S. Virgin Islands;"8th ed. lists ""VI or VS""; Also listed under the subdivision code US-VI-"
+VM;VNM;Vietnam;1
+VS;VGB;British Virgin Islands;"8th ed. lists ""VI or VS"""
+VT;VAT;Vatican City (Holy See);1
+WA;NAM;Namibia;1
+WF;WLF;Wallis and Futuna Islands;9th ed. lists it under France as FR-WLF
+WI;ESH;Western Sahara;1
+WZ;SWZ;Swaziland;1
+XB;XXB;"""Brownland""";9th ed. adds the trigram, private use in ISO 3166-1
+XE;XXE;SHAPE (ACO Command);9th ed. adds the trigram, private use in ISO 3166-1
+XG;XXG;"""Greyland""";9th ed. adds the trigram, private use in ISO 3166-1
+XI;XXI;"""Indigoland""";9th ed. adds the trigram, private use in ISO 3166-1
+XL;XXL;"""Limeland""";9th ed. adds the trigram, private use in ISO 3166-1
+XM;XXM;NATO;[1]private use in ISO 3166-1
+XN;XXN;"NATO ""Blue"" Command";9th ed. adds the trigram, private use in ISO 3166-1
+XP;XXP;"""Purpleland""";9th ed. adds the trigram, private use in ISO 3166-1
+XR;XXR;"""Redland""";9th ed. adds the trigram, private use in ISO 3166-1
+XS;XXS;SACLANT (HQ SACT Command);9th ed. adds the trigram, private use in ISO 3166-1
+XW;XXW;"""Whiteland""";9th ed. adds the trigram, private use in ISO 3166-1
+XY;XXY;"""Yellowland""";9th ed. adds the trigram, private use in ISO 3166-1
+YE;YEM;Yemen;1
+YO;n/a;Yugoslavia;Obsolete 1993
+YT;-;Mayotte;"Former NATO code ME is not to be used since 8th ed.; 8th ed. omits the trigram (mistakenly?); 9th ed. lists it under France as FR-976"
+—;SCG;Serbia and Montenegro;9th ed. lists SB for the digram, which 8th ed. assigns to Saint Pierre and Miquelon, removed from ISO 3166-1
+YU;YUG;Yugoslavia (Federal Republic of);"Temporary code; Serbia, Montenegro, Kosovo, and Vojvodina"
+ZA;ZMB;Zambia;1
+ZI;ZWE;Zimbabwe;1
