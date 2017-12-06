@@ -1,4 +1,4 @@
 plotly
 pandas
 numpy
-pip install fuzzywuzzy[speedup]
+fuzzywuzzy[speedup]
